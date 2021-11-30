@@ -1,0 +1,2 @@
+h1,h2,h3,h4,h5,h6,ol,p,ul{margin-top:0;margin-bottom:0}ol,ul{padding-left:0}img{display:block}li{list-style:none}.gallery-list img{transform:translateX(-50%);opacity:0;transition:all .5s linear 1s;object-fit:cover}.gallery-list img.appear{transform:translateX(0);opacity:1}
+/*# sourceMappingURL=/lazyLoading/src.afab5e46.css.map */
